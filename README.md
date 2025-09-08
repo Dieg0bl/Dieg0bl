@@ -2,54 +2,83 @@
 
 # ¡Hola, soy Diego Barreiro Liste! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-**Desarrollador de Software Junior** especializado en **Aplicaciones Multiplataforma**.  
-Enfocado en crear soluciones eficientes y escalables, con pasión por la **innovación** y la **calidad de código**.
+💻 **Java Backend Developer (Spring Boot · MySQL · Hibernate)** & 🛡️ **Cybersecurity Enthusiast (SOC · Blue Team · Forensics)**  
+Enfocado en crear soluciones **eficientes, seguras y escalables**, con pasión por la **innovación**, la **calidad de código** y la **protección de la información**.
 
 ---
 
-## Sobre mí
-Soy **Diego Barreiro**, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con experiencia en proyectos Full-Stack y prácticas en ATOS IT Solutions & Services. Trabajo con tecnologías como Java, Kotlin, Spring Boot, Jetpack Compose, React y bases de datos Oracle, PostgreSQL, MySQL y MariaDB.  
-Mi enfoque es la eficiencia, la mejora continua y la adaptabilidad.
+## 👨‍💻 Sobre mí
+Soy **Técnico Superior en DAM** con experiencia en desarrollo **Full-Stack** y prácticas en **ATOS IT Solutions & Services**.  
+Trabajo con tecnologías como **Java, Spring Boot, Hibernate, MySQL, Kotlin, Jetpack Compose y React**, además de bases de datos **PostgreSQL y Oracle**.  
+También cuento con formación en **ciberseguridad**: análisis forense, respuesta a incidentes y laboratorios prácticos de pentesting.  
+
+Mi objetivo es crecer como profesional híbrido, aportando valor tanto en el **desarrollo de software** como en la **seguridad de la información**.
 
 ---
 
-## Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 <div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Databases-4DB33D?style=for-the-badge&logo=postgresql&logoColor=white" alt="Bases de datos"/>
-  <img src="https://img.shields.io/badge/Git%20&%20Subversion-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git, Subversion"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Wazuh-0066CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Autopsy-4B275F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git%20&%20SVN-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 ---
 
-## Proyectos Destacados
-- **Portafolio Personal:** [Repositorio](https://github.com/tu-github/mi-portfolio) | [Demo](https://tu-dominio.dev)  
-- **Proyecto Logas (ATOS):** Desarrollo Full-Stack para el SERGAS, integrando JavaScript/Dojo en frontend y Java + Spring Boot en backend.
+## 📌 Proyectos Destacados
+
+### 👨‍💻 Desarrollo
+- **[IMPULSE](https://github.com/Dieg0bl/IMPULSE)** → Plataforma modular en **Spring Boot + PostgreSQL + JWT** para retos personales con trazabilidad y seguridad.  
+- **[FindPro](https://github.com/Dieg0bl/FindPro)** → App Android en **Kotlin + Jetpack Compose + Mapbox** para conectar particulares con profesionales.  
+- **[Zen Tap: Reflex Challenge](https://github.com/Dieg0bl/ZenTap)** → Juego en **Flutter + Firebase** con monetización híbrida (ads + in-app purchases).  
+
+### 🛡️ Ciberseguridad
+- **[Live Incident Response](https://github.com/Dieg0bl/Live-IR)** → Informe técnico estilo Blue Team: análisis de intrusión en Ubuntu 20.04 con Wazuh, cron malware y timeline forense.  
+- **[Dirty COW Exploit Lab](https://github.com/Dieg0bl/Dirty-COW)** → Escalada de privilegios en Ubuntu 16.04 vulnerable (CVE-2016-5195).  
+- **[Autopsy Case “John Doe”](https://github.com/Dieg0bl/Autopsy-Case)** → Análisis forense de imagen .E01 con evidencia de compresión, exfiltración y navegación sospechosa.  
 
 ---
 
-## Experiencia y Formación
+## 🎓 Experiencia y Formación
 - **ATOS IT Solutions & Services**  
-  *Prácticas – Marzo 2024 a Junio 2024, Santiago de Compostela*
-- **Formación:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma  
-  *I.E.S. Plurilingüe Antón Losada Dieguéz, Sept. 2022 - Jun. 2024*
+  *Prácticas – Marzo 2024 a Junio 2024, Santiago de Compostela*  
+  Desarrollo backend en **Java + Spring Boot + Oracle**, soporte a frontend con Dojo/JSP y APIs REST.  
+
+- **Formación:**  
+  - Técnico Superior en Desarrollo de Aplicaciones Multiplataforma *(DAM, 2022–2024)*  
+  - Analista de Ciberseguridad – 4Geeks Academy *(2025)*  
 
 ---
 
-## Contacto
-- [Email](mailto:Dieg0Barreir01@hotmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/diego-barreiro-20580826b/)  
-- [Portfolio](https://diegobarreiro.dev)  
-- [GitHub](https://github.com/Dieg0bl)
+## ✅ Checklist de mi perfil
+- Foto profesional.  
+- Bio corta y clara.  
+- Email actualizado.  
+- README personalizado (este).  
+- Repos fijados equilibrados (Developer + Cybersecurity).  
+- Enlaces a LinkedIn, Portfolio y GitHub.  
+- Badges y estilo visual.  
+- Contribuciones constantes en proyectos.  
+
+---
+
+## 📬 Contacto
+- 🌐 Portfolio: [diegobarreiro.dev](https://diegobarreiro.dev)  
+- 💼 LinkedIn: [linkedin.com/in/dieg0bl](https://www.linkedin.com/in/dieg0bl/)  
+- 📧 Email: **Barreir01Dieg0@gmail.com**  
+- 🐙 GitHub: [github.com/Dieg0bl](https://github.com/Dieg0bl)  
 
 ---
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dieg0bl&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0bl&layout=compact&theme=radical" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dieg0bl&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0bl&layout=compact&theme=radical"/>
 </div>
