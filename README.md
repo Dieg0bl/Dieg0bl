@@ -53,7 +53,6 @@ Mi objetivo es aportar valor como profesional híbrido, combinando **desarrollo 
 ---
 
 ## 📬 Contacto
-- 🌐 Portfolio: [diegobarreiro.dev](https://diegobarreiro.dev)  
 - 💼 LinkedIn: [linkedin.com/in/dieg0bl](https://www.linkedin.com/in/dieg0bl/)  
 - 📧 Email: **Barreir01Dieg0@gmail.com**  
 - 🐙 GitHub: [github.com/Dieg0bl](https://github.com/Dieg0bl)  
