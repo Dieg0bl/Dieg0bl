@@ -2,10 +2,10 @@
 
 **Software Developer — Java · Spring · Kotlin · SQL**
 
-Desarrollador de software con formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y experiencia profesional en **backend Java** y desarrollo de aplicaciones.
+Desarrollador de software formado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+Trabajo principalmente con **Java, Spring y bases de datos relacionales**, además de desarrollo móvil en **Kotlin**.
 
-Trabajo principalmente con **Java, Spring y bases de datos relacionales**, además de desarrollo móvil en **Kotlin**.  
-Interés técnico en **seguridad informática, análisis forense y sistemas Linux**.
+Interés técnico en **sistemas Linux, seguridad informática y análisis forense**.
 
 ---
 
@@ -29,16 +29,11 @@ Aplicación Android en Kotlin para conectar particulares con profesionales.
 Juego móvil centrado en reflejos y precisión.
 
 **Security Labs**  
-Laboratorios personales relacionados con análisis forense y seguridad ofensiva/defensiva.
+Laboratorios y pruebas técnicas relacionados con análisis forense y seguridad de sistemas.
 
 ---
 
 ## Formación
 
-Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-
----
-
-## GitHub
-
-Estadísticas y repositorios públicos disponibles en este perfil.
+Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+Bootcamp en **Ciberseguridad — 4Geeks Academy**
