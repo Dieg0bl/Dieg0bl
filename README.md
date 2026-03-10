@@ -25,9 +25,6 @@ Backend modular en Java con Spring Boot y PostgreSQL.
 **FindPro**  
 Aplicación Android en Kotlin para conectar particulares con profesionales.
 
-**Zen Tap: Reflex Challenge**  
-Juego móvil centrado en reflejos y precisión.
-
 **Security Labs**  
 Laboratorios y pruebas técnicas de seguridad y análisis forense.
 
