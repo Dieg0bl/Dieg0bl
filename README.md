@@ -35,10 +35,9 @@ Laboratorios y pruebas técnicas de seguridad y análisis forense.
 
 ## Colaboración
 
-Si algún proyecto despierta tu interés o quieres aportar, abre un **issue** o contacta.  
-Disponible para colaboración técnica y proyectos interesantes.
+En mis proyectos siempre trato de reflejar, dentro de lo posible y con mejor o peor resultado, la formación técnica adquirida en **Desarrollo de Aplicaciones Multiplataforma (DAM)**  y en el ámbito de la **Ciberseguridad**.
 
 ---
 
-En mis proyectos siempre trato de reflejar, dentro de lo posible y con mejor o peor resultado, la formación técnica adquirida en **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-y en el ámbito de la **Ciberseguridad**.
+Si algún proyecto despierta tu interés o quieres aportar, abre un **issue** o contacta.  
+Disponible para colaboración técnica y proyectos interesantes.
